@@ -1,6 +1,4 @@
-# UniFi Protect UNVR Docker container for arm64
-
-[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/F8zvFL89rXf6pgQo3twuVc/5tkZtrshQpSz4fo3k8M7ZZ/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/F8zvFL89rXf6pgQo3twuVc/5tkZtrshQpSz4fo3k8M7ZZ/tree/main)
+# UniFi Drive install script for arm64
 
 <a href="https://www.buymeacoffee.com/dciancu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px !important;width: 151.9px !important;" ></a>
 
