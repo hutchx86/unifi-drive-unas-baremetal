@@ -1,8 +1,0 @@
-[Unit]
-Description=ssh dummy target
-
-[Service]
-ExecStart=/bin/true
-
-[Install]
-WantedBy=multi-user.target

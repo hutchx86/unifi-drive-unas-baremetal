@@ -20,7 +20,7 @@ case "${1:-}" in
         "firmware": "AX001Q",
         "healthy": "good",
         "life_span": 100,
-        "model": "UniFi Protect fake disk",
+        "model": "UniFi NAS fake disk",
         "poweronhrs": 1,
         "progress": null,
         "read_error": 0,
